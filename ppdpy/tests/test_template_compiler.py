@@ -2,7 +2,6 @@ from unittest import TestCase
 
 from ppdpy import renders
 from ppdpy.exceptions import ExpressionSyntaxError, DirectiveSyntaxError
-from ppdpy.nodes import *
 
 
 class TestTemplates(TestCase):
