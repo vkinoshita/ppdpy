@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="ppdpy-ericvoid",
-    version="0.0.1",
+    version="0.0.2",
     author="Eric J. Kinoshita",
     author_email="eric.void@gmail.com",
     description="Minimal templating using preprocessor directives",
