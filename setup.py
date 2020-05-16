@@ -11,7 +11,7 @@ setuptools.setup(
     description="Minimal templating using preprocessor directives",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="",
+    url="https://github.com/ericvoid/ppdpy",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
